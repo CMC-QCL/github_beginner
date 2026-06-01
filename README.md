@@ -5,7 +5,7 @@
 - GitHub account and
 - Python and Visual Studio Code or 
 - R and RStudio or
-- Jupyter Lab
+- JupyterLab
 
 ## Git Installation
 
