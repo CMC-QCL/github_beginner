@@ -24,7 +24,7 @@
 3. Configure local Git as follows
    `git config --global`
 
-## First Push
+## First Push (i.e., sync)
 1. Create a personal, public GitHub repo with README
 2. __Clone__ the repo to your local drive
 3. __Change directory__ to the downloaded repo (folder)
