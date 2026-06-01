@@ -24,4 +24,17 @@
 3. Configure local Git as follows
    `git config --global`
 
+## First Push
+1. Create a personal, public GitHub repo with README
+2. __Clone__ the repo to your local drive
+3. __Change directory__ to the downloaded repo (folder)
+4. Open REAME.md (text editor, VSCode, etc.)
+5. Edit REAME.md
+6. Save REAME.md
+7. Stage REAME.md (everything with .)
+`git add .`
+8. Commit the change
+`git commit -m "my first change"`
+9.  Push to the GitHub repo
+`git push`
 
