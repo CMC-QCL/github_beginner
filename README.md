@@ -13,15 +13,15 @@
 
 1. Download Git for Windows from https://git-scm.com/install/windows
 2. Install Git
-3. Configure local Git as follows
+3. Configure local Git as follows  
 `git config --global`
 
 ### MacOS
 
-1. Install Git from Xcode through command line
+1. Install Git from Xcode through command line  
    `xcode-select --install`
 2. or intall GitHub Desktop
-3. Configure local Git as follows
+3. Configure local Git as follows  
    `git config --global`
 
 ## First Push (i.e., sync)
