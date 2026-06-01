@@ -26,7 +26,7 @@
 
 ## First Push (i.e., sync)
 1. Create a personal, public GitHub repo with README
-2. __Clone__ the repo to your local drive
+2. __Clone__ the GitHub repo to your local drive
 3. __Change directory__ to the downloaded repo (folder)
 4. Open REAME.md (text editor, VSCode, etc.)
 5. Edit REAME.md
