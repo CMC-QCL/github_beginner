@@ -31,10 +31,10 @@
 4. Open REAME.md (text editor, VSCode, etc.)
 5. Edit REAME.md
 6. Save REAME.md
-7. Stage REAME.md (everything with .)
+7. Stage REAME.md (everything with .)   
 `git add .`
-8. Commit the change
+8. Commit the change  
 `git commit -m "my first change"`
-9.  Push to the GitHub repo
+9.  Push to the GitHub repo  
 `git push`
 
